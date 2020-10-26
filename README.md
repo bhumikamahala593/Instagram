@@ -13,15 +13,15 @@
 * User can message any of the followers or followings .
 * User can follow someone .
 * User can get suggestions  whome to follow.
-## 👉API :
+## 👉API 
 * REST api's will be used as they are very fast and stateless protocol based
 ## 👉Datebase
 * MongodB is used for the database which will be accessed by api's call.
 * MongoDB is the best document based  database that is used because the structure of the data from the social media web applications are not very precise and hence has no specific structure .
-## 👉Image Storage :
+## 👉Image Storage 
 * Image storage is done on a very popular platform Cloudinary which is done again using api calls .
 ## 👉Timeline/Milestone
-## 👉License:
+## 👉License
 * MIT
 ## 👉Contact Information
 * Email-id: bhumikamahala8@gmail.com
