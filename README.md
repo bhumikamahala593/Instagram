@@ -1,4 +1,3 @@
-# Instagram
 # 👉Instagram👈
 ## 👉Introduction
 * This is a  Instagram Clone Project which will have basic functionalities as that in instagram.
@@ -7,7 +6,7 @@
    * React Hooks - These are the major component of the project .
    * Socket.io (Optional) - To send messages and making a team and broadcast the message .
 ## 👉Architecture
-####👉 Website :
+###👉 Website :
 * This is a social media web application in which user can do following things :
 * Sign in, Sign up,Forgot Password.
 * Like , comment ,Tag ,Delete, Edit ,Open and  share the posts/feeds .
