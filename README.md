@@ -25,5 +25,5 @@
 * MIT
 ## 👉Contact Information
 * Email-id: bhumikamahala8@gmail.com
-* GitHUb  : https://github.com/bhumikamahala593
+* GithUb  : https://github.com/bhumikamahala593
 * LinkedIn : https://www.linkedin.com/in/bhumika-mahala-mernstack/
